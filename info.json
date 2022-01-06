@@ -1,0 +1,12 @@
+{
+    "name": "yeet-labels",
+    "version": "0.1.1",
+    "title": "YEETLABELS",
+    "author": "avcables",
+    "dependencies": [
+        "base >= 1.1.0",
+        "space-exploration >= 0.5.102"
+    ],
+    "description": "YEET IT ALL.",
+    "factorio_version": "1.1"
+}
