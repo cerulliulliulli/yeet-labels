@@ -1,12 +1,19 @@
 {
     "name": "yeet-labels",
-    "version": "0.1.1",
-    "title": "YEETLABELS",
+    "version": "0.1.2",
+    "title": "YEETABELS",
     "author": "avcables",
     "dependencies": [
         "base >= 1.1.0",
         "space-exploration >= 0.5.102"
     ],
-    "description": "YEET IT ALL. When you need a more accurate description while in space, look no further. YEET out the old, YEET in the new!",
-    "factorio_version": "1.1"
+    "description": "YEET IT ALL. When you need a more accurate description while in space, look no further. YEET out the old, YEET in the new! Created for damnzl's SE playthrough.",
+    "factorio_version": "1.1",
+    "homepage": "https://www.twitch.tv/damnzl",
+    "package": {
+        "ignore": [
+            ".vscode",
+            ".gitignore"
+        ]
+    }
 }

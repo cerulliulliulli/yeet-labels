@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+  Info:
+    - Added new sprites for Logistics Robots.
+    - Renamed to "YEETABLES".
+    - Added damnzl's information.
+
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
   Info:
     - First release, yeeted in the abyss.
