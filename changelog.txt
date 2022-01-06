@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+  Info:
+    - Fixed issues with collision of sprite table.
+    - Scaled down Logisti-Owl to not block as much behind it when in large swarms.
+    - Removed framework for toggles for each option not in the string rename. (For now!)
+
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
   Info:
     - Added new sprites for Logistics Robots.
